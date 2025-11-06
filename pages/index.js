@@ -2,7 +2,7 @@ function Home (){
 
     return (
         <>
-        <h1>I gonna make it!</h1>
+        <h1>I'm gonna make it!</h1>
         </>
     );
 }
