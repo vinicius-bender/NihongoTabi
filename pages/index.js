@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <h1>I'm gonna make it!</h1>
+      <h1>日本語旅</h1>
     </>
   );
 }
