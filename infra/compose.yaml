@@ -4,7 +4,7 @@ services: #Serviços
     # environment: #Variávies de ambiente
     #   POSTGRES_PASSWORD: "root"
     env_file:
-      - ../.env
+      - ../.env.development
     ports:
       #- "host:container" Relaciona uma porta no ambinete host (mundo fora do container) e uma porta no guest (mundo dentro do container) host:container
       - "5432:5432"
