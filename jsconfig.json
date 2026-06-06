@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        /*
+        Option 'baseUrl' is deprecated and will stop functioning in TypeScript 7.0. Specify compilerOption '"ignoreDeprecations": "6.0"' to silence this error.
+        Visit https://aka.ms/ts6 for migration information.ts
+        Specify the base directory to resolve non-relative module names.
+
+        See more: https://www.typescriptlang.org/tsconfig#baseUrl
+        */
+        "ignoreDeprecations": "6.0"
+    }
+}
